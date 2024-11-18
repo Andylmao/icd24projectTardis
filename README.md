@@ -28,7 +28,7 @@ Segmentación y limpieza de las imágenes.
 Organización en carpetas y etiquetado.
 
 
-tranflearnResnet50.ipynb
+### Res50TransLearnTardis.ipynb
 Este notebook detalla la aplicación de transfer learning y fine-tuning utilizando ResNet50. Incluye:
 
 Preparación del modelo preentrenado.
