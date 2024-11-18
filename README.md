@@ -1,4 +1,4 @@
-# Proyecto: Clasificación de Tardígrados Utilizando Redes Neuronales Convolucionales
+# Proyecto: Clasificación Morfológica de Tardígrados Utilizando Redes Neuronales Convolucionales
 Este repositorio contiene los notebooks y recursos utilizados en el proyecto para la clasificación automática de géneros de tardígrados mediante técnicas de aprendizaje profundo, incluyendo el uso de modelos YOLO y ResNet50.
 
 ![val_batch1_labels](https://github.com/user-attachments/assets/2cd2fed8-d809-4daa-8501-4f499bdea47b)
