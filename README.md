@@ -12,6 +12,14 @@ Este notebook contiene la implementación de la arquitectura YOLOv5 para la dete
 Configuración y entrenamiento del modelo YOLOv5.
 Evaluación del modelo en términos de precisión y recall.
 
+
+### Res50TransLearnTardis.ipynb
+Este notebook detalla la aplicación de transfer learning y fine-tuning utilizando ResNet50. Incluye:
+
+Preparación del modelo preentrenado.
+Ajuste de hiperparámetros para el dataset específico.
+Resultados de evaluación y comparación de desempeño.
+
 ### imgtratamientoTardis.ipynb
 En este notebook se aborda el tratamiento y preprocesamiento de imágenes microscópicas, con los siguientes pasos:
 
@@ -27,10 +35,3 @@ Conversión de formatos.
 Segmentación y limpieza de las imágenes.
 Organización en carpetas y etiquetado.
 
-
-### Res50TransLearnTardis.ipynb
-Este notebook detalla la aplicación de transfer learning y fine-tuning utilizando ResNet50. Incluye:
-
-Preparación del modelo preentrenado.
-Ajuste de hiperparámetros para el dataset específico.
-Resultados de evaluación y comparación de desempeño.
